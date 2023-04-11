@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Tarea 1 - curso FS9 LATAM
+# goit-markup-hw-02
+Tarea 2 GoIT
